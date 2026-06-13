@@ -60,12 +60,12 @@ export default function Hero() {
         href="https://drive.google.com/file/d/1ODrI9c1uXVvlLuQySMF_Ss0ptIzcpWOZ/view?usp=drivesdk"
         target="_blank"
         rel="noopener noreferrer"
-        className="absolute top-10 right-10 bg-purple-900 hover:bg-purple-700 hover:scale-105 transition-all duration-300 text-white font-bold py-3 px-6 rounded-xl z-10">
+        className="absolute top-8 right-8 bg-purple-900 hover:bg-purple-700 hover:scale-105 transition-all duration-300 text-white font-bold py-3 px-6 rounded-xl z-10">
         Resume
       </a>
 
       <div className="relative z-10 flex flex-col items-center gap-4">
-        <h1 className="text-8xl font-bold neon-name glitch" 
+        <h1 className="text-4xl sm:text-5xl md:text-7xl font-bold neon-name glitch text-center"
         data-text="Bhoomika Chaudhary">
           Bhoomika Chaudhary
         </h1>
@@ -78,7 +78,7 @@ export default function Hero() {
           repeat={Infinity}
           className="text-xl text-purple-400"
         />
-        <p className="text-xl text-gray-300 max-w-2xl mt-2">
+        <p className="text-base sm:text-lg md:text-xl text-gray-300 max-w-xl md:max-w-2xl mt-2 px-2">
           BCA student passionate about Game Development and Machine Learning — building things that are both functional and fun.
         </p>
       </div>
