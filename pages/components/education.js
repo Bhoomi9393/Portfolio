@@ -7,6 +7,7 @@ export default function Education(){
                 <p className="text-lg mb-4">Manav Rachna International Institute of Research and Technology, 2024-2027</p>
                 <p className="text-gray-300">Dean's List — Top 5% of students</p>
                 <p className="text-gray-300">Relevant coursework: DSA, DBMS, OOP (Java), Python, Web Development</p>
+                <p className="text-gray-300">Languages: English, Hindi, French</p>
             </div>
         </section>      
     )

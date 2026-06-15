@@ -71,7 +71,7 @@ export default function Hero() {
         </h1>
         <TypeAnimation
           sequence={[
-            "AspiringGame Developer", 2000,
+            "Aspiring Game Developer", 2000,
             "Machine Learning Enthusiast", 2000,
             "Dreaming Beyond Time", 2000,
           ]}
